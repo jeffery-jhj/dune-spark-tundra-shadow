@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Matcha Field Study",
+      "hasCanvas": false,
+      "bodyTextLen": 21330,
+      "bodyTextHash": "982e2ec7db0837d3a81cff4206c852b22416abd0a1e4f9764f0f93514a715e38",
+      "bodyTextPrefix": "Field Study MATCHA · NYC · N=10 Overview Sample Jobs Taste Camps",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Matcha Field Study",
+      "hasCanvas": false,
+      "bodyTextLen": 20892,
+      "bodyTextHash": "31fe01cb3f3205ec56757fe391dd4c331eb76d0e096e3cb6278d335a1ac1c46c",
+      "bodyTextPrefix": "Field Study STREET INTERCEPTS · WORKING FILE · NEW YORK The $8 d",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
